@@ -1,0 +1,44 @@
+.populer{
+    background-color: rgb(246,235,218);
+    height: 40vh;
+}
+.populer .bg-kopi img{
+    width: 25%;
+}
+.product{
+    background-color: rgb(245,214,168);
+    top: 155px;
+    margin: 0px 60px 0px 70px;
+    width: 89%;
+    height: 320px;
+    border-radius: 60px;
+}
+.product .product-body{
+    bottom: 70px;
+    left: 74px;
+}
+.product .product-body .menu{
+    background-color: white;
+    width: 300px;
+    height: 320px;
+    border: 8px solid rgba(245, 214, 168, 0.221);
+    backdrop-filter: blur(10px);
+}
+.product .product-body .varian{
+    font-family: "Fredoka", sans-serif;
+}
+
+.service{
+    background-color: white;
+    max-height: 100vh;
+}
+.service .title{
+    margin-top: 23%;
+    margin-left: 120px;
+}
+.service-content-satu img{
+    margin-left: 48%;
+}
+.service-content-tiga img{
+    margin-right: 38%;
+}
